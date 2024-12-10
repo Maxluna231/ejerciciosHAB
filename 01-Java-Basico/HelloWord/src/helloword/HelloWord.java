@@ -12,6 +12,7 @@ public class HelloWord {
         // TODO code application logic here
         // diagonal funcion para comentarios
         System.out.println("Hola mundo");
+        System.out.println(":)");
     }
     
 }

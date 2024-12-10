@@ -1,15 +1,15 @@
-package variablesoperadores;
+
+package variableoperador;
 
 import java.util.Scanner;
 
 
-public class VariablesOperadores {
+public class VariableOperador {
 
  
     public static void main(String[] args) {
         // TODO code application logic here
-        
-       Scanner calcular = new Scanner(System.in);
+         Scanner calcular = new Scanner(System.in);
 
         
         System.out.println("Ingrese la base"); 
@@ -22,7 +22,6 @@ public class VariablesOperadores {
         double area = (base * altura )/2;
         
         System.out.println("El area del tringulo es ;" + area);
-        
         
     }
     
