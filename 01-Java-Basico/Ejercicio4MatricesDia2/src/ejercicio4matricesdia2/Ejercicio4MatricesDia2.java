@@ -8,12 +8,12 @@ public class Ejercicio4MatricesDia2 {
     public static void main(String[] args) {
        Scanner teclado = new Scanner(System.in);
        
-       char  [][] asientos = new char [5][5];
+       char  [][] asientos = new char [5][5]; //matris
        
        
        for(int i = 0; i<asientos.length;i++){
         for(int j = 0; j<asientos.length;j++){
-        asientos[i][j] = '0';
+        asientos[i][j] = 'O';
         }
        }
        
