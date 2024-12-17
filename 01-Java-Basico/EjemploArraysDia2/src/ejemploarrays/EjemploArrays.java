@@ -28,8 +28,8 @@ public class EjemploArrays {
         }
        
         //Recorrido Vector
-        for(int i=0;i<=4;1++){
-            System.out.println("El valor guardado en el indice;" + i+ );
+        for(int i=0;i<=4;i++){
+            System.out.println("El valor guardado en el indice;" + i  + " es: " + numeros[i] );
         }
     }
     
