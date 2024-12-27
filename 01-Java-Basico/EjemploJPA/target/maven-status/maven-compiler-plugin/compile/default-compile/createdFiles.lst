@@ -1,0 +1,8 @@
+logica\Persona_.class
+com\hackaboss\ejemplojpa\EjemploJPA.class
+persistencia\PersonaJpaController.class
+persistencia\exceptions\NonexistentEntityException.class
+persistencia\exceptions\PreexistingEntityException.class
+logica\Persona.class
+persistencia\ControladoraPersistencia.class
+persistencia\exceptions\IllegalOrphanException.class
