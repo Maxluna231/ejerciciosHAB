@@ -1,0 +1,10 @@
+persistencia\OficinaJpaController.class
+persistencia\DirectorJpaController.class
+logica\Director.class
+logica\Oficina.class
+logica\Director_.class
+persistencia\exceptions\NonexistentEntityException.class
+persistencia\exceptions\PreexistingEntityException.class
+persistencia\ControladoraPersistencia.class
+persistencia\exceptions\IllegalOrphanException.class
+logica\Oficina_.class
