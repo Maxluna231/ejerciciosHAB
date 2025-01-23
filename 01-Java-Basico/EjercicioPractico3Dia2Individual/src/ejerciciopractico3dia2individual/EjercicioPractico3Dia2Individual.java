@@ -1,4 +1,3 @@
-
 package ejerciciopractico3dia2individual;
 
 import java.util.Scanner;
